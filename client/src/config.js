@@ -1,4 +1,4 @@
 import axios from "axios"
  export const axiosInstance = axios.create({
-     baseURL: "https://pavi-blog.herokuapp.com/api"
+     baseURL: "https://localhost:3000"
  })
